@@ -19,4 +19,4 @@
  * Construct a scatter matrix within each class, and between each class.
  * sum up the three individual scatter matrices into one final matrix.
  ## TCA-
- 
+ * This approach makes it possible to apply clustering algorithms to find decompositions of transformation programs at the method level.
